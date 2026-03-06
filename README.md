@@ -28,6 +28,14 @@
 
 ---
 
+## Источник пресетов
+
+DNS-пресеты и сама идея практического применения взяты из этого гайда Steam Community:
+
+- [Marathon - How to Fix DNS Resolve Error](https://steamcommunity.com/sharedfiles/filedetails/?id=3679248285)
+
+---
+
 ## Установка
 
 1) Скачай `marathon-dns.ps1` (или склонируй репозиторий)
